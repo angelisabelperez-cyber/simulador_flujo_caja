@@ -438,5 +438,6 @@ with tab4:
     )
 
 st.divider()
-st.caption("Simulador de Flujo de Caja · Análisis de cobranza a 30/60/90 días · "
-           "Datos ingresados manualmente — no se almacena ninguna información.")
+st.caption("🔒 Privacidad: esta herramienta no almacena, registra ni comparte ningún dato ingresado. "
+           "Toda la información se procesa únicamente en tu sesión activa y se elimina al cerrar la aplicación. "
+           "Simulador de Flujo de Caja · Análisis de cobranza a 30/60/90 días.")
